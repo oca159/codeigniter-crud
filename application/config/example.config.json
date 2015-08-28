@@ -1,0 +1,17 @@
+{
+    "config": {
+        "database": {
+            "database": "database",
+            "host": "localhost",
+            "user": "root",
+            "password": "12345"
+        },
+        "system": {
+            "name": "Codecrud",
+            "administrator": "Codecrud",
+            "title": "Codecrud",
+            "tags": "Codecrud",
+            "description": "Codecrud"
+        }
+    }
+}
