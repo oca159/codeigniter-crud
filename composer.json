@@ -1,0 +1,13 @@
+{
+	"description" : "Crud simple para codeigniter",
+	"name" : "oca159/codeigniter-crud",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.2.4",
+		"twig/twig": "~1.0",
+		"maltyxx/debugbar": "^1.0"
+	},
+	"require-dev": {
+		"mikey179/vfsStream": "1.1.*"
+	}
+}
